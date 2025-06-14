@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "atv.js",
+  "scripts": {
+    "dev": "nodemon ./while.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelaHuther/atividade-if-else.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelaHuther/atividade-if-else/issues"
+  },
+  "homepage": "https://github.com/RafaelaHuther/atividade-if-else#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
